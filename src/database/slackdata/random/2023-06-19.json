@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1687165577.473419",
+        "user": "U05DHDPL4FK",
+        "text": "<@U05DHDPL4FK> has joined the channel"
+    },
+    {
+        "client_msg_id": "df86660e-a44f-4a50-ad21-6f254fbe8517",
+        "type": "message",
+        "text": "Random shiii",
+        "user": "U05DHDPL4FK",
+        "ts": "1687166237.151359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6tDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Random shiii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "g741f2dae79d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/741f2dae79d044ac787e96f005d9e415.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "kenenisaalemayhu0",
+            "real_name": "kenenisaalemayhu0",
+            "display_name": "",
+            "team": "T05D4QLFERY",
+            "name": "kenenisaalemayhu0",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1687166739.563669",
+        "user": "U05CQ93C3FZ",
+        "text": "<@U05CQ93C3FZ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1687168031.665069",
+        "user": "U05D4M7RGQ3",
+        "text": "<@U05D4M7RGQ3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1687177319.468259",
+        "user": "U05D1SQDNSH",
+        "text": "<@U05D1SQDNSH> has joined the channel"
+    }
+]

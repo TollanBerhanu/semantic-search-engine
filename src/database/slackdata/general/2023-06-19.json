@@ -1,0 +1,1102 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1687165577.272839",
+        "user": "U05DHDPL4FK",
+        "text": "<@U05DHDPL4FK> has joined the channel"
+    },
+    {
+        "client_msg_id": "66b831cc-75c5-4a33-942f-3441bf83df6f",
+        "type": "message",
+        "text": "hello",
+        "user": "U05DHDPL4FK",
+        "ts": "1687166197.580079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "g741f2dae79d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/741f2dae79d044ac787e96f005d9e415.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "kenenisaalemayhu0",
+            "real_name": "kenenisaalemayhu0",
+            "display_name": "",
+            "team": "T05D4QLFERY",
+            "name": "kenenisaalemayhu0",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d2e088fa-082d-441d-b9bb-73040dc61941",
+        "type": "message",
+        "text": "<https:\/\/haystack.deepset.ai\/tutorials\/08_preprocessing>",
+        "user": "U05DHDPL4FK",
+        "ts": "1687166202.864639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/haystack.deepset.ai\/tutorials\/08_preprocessing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "g741f2dae79d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/741f2dae79d044ac787e96f005d9e415.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "kenenisaalemayhu0",
+            "real_name": "kenenisaalemayhu0",
+            "display_name": "",
+            "team": "T05D4QLFERY",
+            "name": "kenenisaalemayhu0",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/haystack.deepset.ai\/tutorials\/08_preprocessing",
+                "image_url": "https:\/\/haystack.deepset.ai\/images\/haystack-ogimage.png",
+                "image_width": 1600,
+                "image_height": 766,
+                "image_bytes": 30437,
+                "service_icon": "https:\/\/haystack.deepset.ai\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/haystack.deepset.ai\/tutorials\/08_preprocessing",
+                "fallback": "Haystack: Preprocessing Your Documents | Haystack",
+                "text": "Start converting, cleaning, and splitting Documents using Haystack’s preprocessing capabilities.",
+                "title": "Preprocessing Your Documents | Haystack",
+                "title_link": "https:\/\/haystack.deepset.ai\/tutorials\/08_preprocessing",
+                "service_name": "Haystack"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05DHDPL4FK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1687166739.731219",
+        "user": "U05CQ93C3FZ",
+        "text": "<@U05CQ93C3FZ> has joined the channel"
+    },
+    {
+        "client_msg_id": "f8d1c733-427a-4fb7-900d-b7861bede9eb",
+        "type": "message",
+        "text": "Good work.. now we don't have to worry about exporting data.",
+        "user": "U05CQ93C3FZ",
+        "ts": "1687166814.786429",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rgH3P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good work.. now we don't have to worry about exporting data."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "gdd543bd963d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dd543bd963dd804efd74338821d2f1f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Tollan",
+            "real_name": "Tollan",
+            "display_name": "",
+            "team": "T05D4QLFERY",
+            "name": "tollanberhanu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cef366a3-d831-4b86-a2ca-cda2bbcd7882",
+        "type": "message",
+        "text": "It's best if we just post random topics here to test the semantic search.",
+        "user": "U05CQ93C3FZ",
+        "ts": "1687166901.338569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zzmK4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's best if we just post random topics here to test the semantic search."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "gdd543bd963d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dd543bd963dd804efd74338821d2f1f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Tollan",
+            "real_name": "Tollan",
+            "display_name": "",
+            "team": "T05D4QLFERY",
+            "name": "tollanberhanu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "68f69eff-f1b8-40e8-97ec-98ea0ddb4d78",
+        "type": "message",
+        "text": "yeah then we’ll see how we can clean the data",
+        "user": "U05DHDPL4FK",
+        "ts": "1687167171.439409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8JBgN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah then we’ll see how we can clean the data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "g741f2dae79d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/741f2dae79d044ac787e96f005d9e415.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "kenenisaalemayhu0",
+            "real_name": "kenenisaalemayhu0",
+            "display_name": "",
+            "team": "T05D4QLFERY",
+            "name": "kenenisaalemayhu0",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ac4a0f13-351a-4881-99af-53f288c6c357",
+        "type": "message",
+        "text": "but we can’t use it for search since it’ll be very small",
+        "user": "U05DHDPL4FK",
+        "ts": "1687167197.595189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IPgo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but we can’t use it for search since it’ll be very small"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "g741f2dae79d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/741f2dae79d044ac787e96f005d9e415.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "kenenisaalemayhu0",
+            "real_name": "kenenisaalemayhu0",
+            "display_name": "",
+            "team": "T05D4QLFERY",
+            "name": "kenenisaalemayhu0",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1687168031.699049",
+        "user": "U05D4M7RGQ3",
+        "text": "<@U05D4M7RGQ3> has joined the channel"
+    },
+    {
+        "client_msg_id": "156ea8bb-72d4-4546-a560-919a9fcbec54",
+        "type": "message",
+        "text": "Oh.. u r right.. the search probably won't work properly with a small amount of data.",
+        "user": "U05CQ93C3FZ",
+        "ts": "1687168952.621439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M=1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh.. u r right.. the search probably won't work properly with a small amount of data."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "gdd543bd963d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dd543bd963dd804efd74338821d2f1f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Tollan",
+            "real_name": "Tollan",
+            "display_name": "",
+            "team": "T05D4QLFERY",
+            "name": "tollanberhanu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3783b5d-4f89-432f-817c-b76920ae86e3",
+        "type": "message",
+        "text": "And we should also post some stickers... :grinning: :smile: :grin:",
+        "user": "U05CQ93C3FZ",
+        "ts": "1687169124.658349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wgG0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And we should also post some stickers... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "gdd543bd963d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dd543bd963dd804efd74338821d2f1f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Tollan",
+            "real_name": "Tollan",
+            "display_name": "",
+            "team": "T05D4QLFERY",
+            "name": "tollanberhanu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b232856a-b4f5-4098-b726-e71a3f990df6",
+        "type": "message",
+        "text": "Also, welcome <@U05D4M7RGQ3>",
+        "user": "U05CQ93C3FZ",
+        "ts": "1687169174.199539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLHT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05D4M7RGQ3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "gdd543bd963d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dd543bd963dd804efd74338821d2f1f1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Tollan",
+            "real_name": "Tollan",
+            "display_name": "",
+            "team": "T05D4QLFERY",
+            "name": "tollanberhanu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1687177319.492129",
+        "user": "U05D1SQDNSH",
+        "text": "<@U05D1SQDNSH> has joined the channel"
+    },
+    {
+        "client_msg_id": "c8f3a25c-4865-4f1f-9909-7af4f0738e9e",
+        "type": "message",
+        "text": "This is interesting",
+        "user": "U05D1SQDNSH",
+        "ts": "1687177484.530639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZRpe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is interesting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Eyob",
+            "real_name": "Eyob aschenaki",
+            "display_name": "Eyob aschenaki",
+            "team": "T05D4QLFERY",
+            "name": "ethioeyoba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a009895c-611f-42db-b8bb-4b47d32e5333",
+        "type": "message",
+        "text": "I didn't know slack had a dark mode until I saw the screenshot",
+        "user": "U05D1SQDNSH",
+        "ts": "1687177520.385329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I didn't know slack had a dark mode until I saw the screenshot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Eyob",
+            "real_name": "Eyob aschenaki",
+            "display_name": "Eyob aschenaki",
+            "team": "T05D4QLFERY",
+            "name": "ethioeyoba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F05D2RQ8NJZ",
+                "created": 1687177597,
+                "timestamp": 1687177597,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05D1SQDNSH",
+                "user_team": "T05D4QLFERY",
+                "editable": false,
+                "size": 1758159,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05D2RQ8NJZ\/image.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05D2RQ8NJZ\/download\/image.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RQ8NJZ-f2b7ff0bf7\/image_64.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RQ8NJZ-f2b7ff0bf7\/image_80.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RQ8NJZ-f2b7ff0bf7\/image_360.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RQ8NJZ-f2b7ff0bf7\/image_480.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RQ8NJZ-f2b7ff0bf7\/image_160.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RQ8NJZ-f2b7ff0bf7\/image_720.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RQ8NJZ-f2b7ff0bf7\/image_800.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RQ8NJZ-f2b7ff0bf7\/image_960.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RQ8NJZ-f2b7ff0bf7\/image_1024.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 512,
+                "original_w": 1536,
+                "original_h": 768,
+                "thumb_tiny": "AwAYADCiEPpThGfSmZanB2\/yaZOo8RH+6aXyGPY0gcgf\/XpQ9AtQMDKOlRshzwKeWOetMZyDjNA9SPNOyD0FR0q9aRQ\/cc0bjTe9B6UABOe9BpB1paAP\/9k=",
+                "permalink": "https:\/\/mattermost-llm-test.slack.com\/files\/U05D1SQDNSH\/F05D2RQ8NJZ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05D4QLFERY-F05D2RQ8NJZ-bf1373ab58",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F05D2RR4NSZ",
+                "created": 1687177607,
+                "timestamp": 1687177607,
+                "name": "mesponi_Poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694.png",
+                "title": "mesponi_Poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05D1SQDNSH",
+                "user_team": "T05D4QLFERY",
+                "editable": false,
+                "size": 2111701,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05D2RR4NSZ\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05D2RR4NSZ\/download\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RR4NSZ-82d93a982f\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694_64.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RR4NSZ-82d93a982f\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694_80.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RR4NSZ-82d93a982f\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694_360.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RR4NSZ-82d93a982f\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694_480.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RR4NSZ-82d93a982f\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694_160.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RR4NSZ-82d93a982f\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694_720.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RR4NSZ-82d93a982f\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694_800.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RR4NSZ-82d93a982f\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694_960.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D2RR4NSZ-82d93a982f\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694_1024.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1024,
+                "original_h": 1024,
+                "thumb_tiny": "AwAwADCGtCFg0YA6gVnqRkZzV2Fh5eVrRmaBvvHtQuQ\/rSOfmojPJpAWBxTJXAU7ulCkkCoptrDbzmkBRq9ar+6znqapAZNXrUDy\/emx2HFA0hz0FIqgMQKfIUiG89TREyON4AB6UrhYcBhSTxgVQlmLHjir0gV4ypzg+lZ0kbRtg4+tCAbmrcKbMNnJqnUqTsvGeKYMs3KMyDBHFLbIwjOeBUCzM+VY8VKJO3vSGSuAVIzzVGYESHNWPMGDu4Paq8mGOQc0xH\/\/2Q==",
+                "permalink": "https:\/\/mattermost-llm-test.slack.com\/files\/U05D1SQDNSH\/F05D2RR4NSZ\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05D4QLFERY-F05D2RR4NSZ-7e6135b352",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F05D5PYGE4A",
+                "created": 1687177617,
+                "timestamp": 1687177617,
+                "name": "mesponi_Poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2.png",
+                "title": "mesponi_Poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05D1SQDNSH",
+                "user_team": "T05D4QLFERY",
+                "editable": false,
+                "size": 2073657,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05D5PYGE4A\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05D5PYGE4A\/download\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D5PYGE4A-ba285bddc9\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2_64.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D5PYGE4A-ba285bddc9\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2_80.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D5PYGE4A-ba285bddc9\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2_360.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D5PYGE4A-ba285bddc9\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2_480.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D5PYGE4A-ba285bddc9\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2_160.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D5PYGE4A-ba285bddc9\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2_720.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D5PYGE4A-ba285bddc9\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2_800.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D5PYGE4A-ba285bddc9\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2_960.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05D5PYGE4A-ba285bddc9\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2_1024.png?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "original_w": 1024,
+                "original_h": 1024,
+                "thumb_tiny": "AwAwADB9oD5GSOCaR2If2ptkwaJk754pG4Y85xVEbMl3k07eQOeahByRS560rBccGO4d6jvhxGfrSjr1xTL048tewHWmC3EtwPLyMht3WnMSzkkY9aZaE5x709uW69aaJe4DOeKMkMCaeF4GBQV68UybjM4bpnmku0OxXJyc8j0pehpLs\/Ko\/Gky09RLbHltTwhDCm2i7lfkDHrVlUAUdM\/UUXE07kUp2x8evNOiy0Qz1pXBIAC5555FPRCFAIHA9RSuPl0IHUljTLkYhTPXNW9gHcZ9yKq3ihUTBzk0XElqf\/\/Z",
+                "permalink": "https:\/\/mattermost-llm-test.slack.com\/files\/U05D1SQDNSH\/F05D5PYGE4A\/mesponi_poster_for_the_legend_of_the_bioshok_scuba_suitdiver_of_001c493f-9d11-4c2e-b9bb-32925f963694-2.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05D4QLFERY-F05D5PYGE4A-3efda1843d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F05DVF9LZRN",
+                "created": 1687177628,
+                "timestamp": 1687177628,
+                "name": "surreal_oil_illustration_by_Katsuyo_Otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05.jpeg",
+                "title": "surreal_oil_illustration_by_Katsuyo_Otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U05D1SQDNSH",
+                "user_team": "T05D4QLFERY",
+                "editable": false,
+                "size": 718345,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05DVF9LZRN\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05.jpeg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05DVF9LZRN\/download\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05.jpeg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVF9LZRN-5373ce232d\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05_64.jpg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVF9LZRN-5373ce232d\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05_80.jpg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVF9LZRN-5373ce232d\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05_360.jpg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_360_w": 271,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVF9LZRN-5373ce232d\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05_480.jpg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_480_w": 362,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVF9LZRN-5373ce232d\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05_160.jpg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVF9LZRN-5373ce232d\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05_720.jpg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_720_w": 542,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVF9LZRN-5373ce232d\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05_800.jpg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1062,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVF9LZRN-5373ce232d\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05_960.jpg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_960_w": 723,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVF9LZRN-5373ce232d\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05_1024.jpg?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "thumb_1024_w": 771,
+                "thumb_1024_h": 1024,
+                "original_w": 928,
+                "original_h": 1232,
+                "thumb_tiny": "AwAwACSBUBBJcLn1zT4gin7+8+wqMzE9sn2NNEhLcDH0FAIuCTcCOVUelSxgEEKhx6nvVPzCMAqQO9WI5VfgdBx1pAwZTuPIpMe4p2B\/dNGB\/cNFyDNwcZHSpo1DAcc0ikdCcY9e9TLgAYoNFYeiMrH5cD+dEIAJKjqemKkWTapyTzQj8cnJPJOKQS2H9aKhMpzSeaadjG5GrKVIMeQOvFKjBR2pgO0bX71ECAcHpRYq5Y3jH0oUGTlahOWBxnI6+lN8wr0amBIWIOKTef8AIqItRupisf\/Z",
+                "permalink": "https:\/\/mattermost-llm-test.slack.com\/files\/U05D1SQDNSH\/F05DVF9LZRN\/surreal_oil_illustration_by_katsuyo_otomo_a_little_boy_swim_7992023d-c6a6-4047-9281-3c46e42e9a05.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T05D4QLFERY-F05DVF9LZRN-e3ff41de94",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05D1SQDNSH",
+        "ts": "1687177633.512829",
+        "client_msg_id": "8f1d2199-c9ad-4fae-b3b6-d0d4429d4e43"
+    },
+    {
+        "client_msg_id": "d2f7fb1f-6c79-40d7-bea3-048bc23c13b8",
+        "type": "message",
+        "text": "Just for test case we should add some picture to see how slack handles it",
+        "user": "U05D1SQDNSH",
+        "ts": "1687177638.199629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PS5v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just for test case we should add some picture to see how slack handles it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Eyob",
+            "real_name": "Eyob aschenaki",
+            "display_name": "Eyob aschenaki",
+            "team": "T05D4QLFERY",
+            "name": "ethioeyoba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F05DJD6GGKB",
+                "created": 1687177678,
+                "timestamp": 1687177678,
+                "name": "Articulating Design Decisions_ Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience ( PDFDrive ).epub",
+                "title": "Articulating Design Decisions_ Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience ( PDFDrive ).epub",
+                "mimetype": "application\/epub+zip",
+                "filetype": "epub",
+                "pretty_type": "EPUB",
+                "user": "U05D1SQDNSH",
+                "user_team": "T05D4QLFERY",
+                "editable": false,
+                "size": 2234562,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05DJD6GGKB\/articulating_design_decisions__communicate_with_stakeholders__keep_your_sanity__and_deliver_the_best_user_experience___pdfdrive__.epub?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05DJD6GGKB\/download\/articulating_design_decisions__communicate_with_stakeholders__keep_your_sanity__and_deliver_the_best_user_experience___pdfdrive__.epub?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/mattermost-llm-test.slack.com\/files\/U05D1SQDNSH\/F05DJD6GGKB\/articulating_design_decisions__communicate_with_stakeholders__keep_your_sanity__and_deliver_the_best_user_experience___pdfdrive__.epub",
+                "permalink_public": "https:\/\/slack-files.com\/T05D4QLFERY-F05DJD6GGKB-4b685eee94",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05D1SQDNSH",
+        "display_as_bot": false,
+        "ts": "1687177684.977169",
+        "client_msg_id": "70e55098-b49a-456e-b60a-16ad20d6c448"
+    },
+    {
+        "client_msg_id": "01b9501d-19cb-45be-bad7-86634b0592c0",
+        "type": "message",
+        "text": "This is a good book for design nerds like me",
+        "user": "U05D1SQDNSH",
+        "ts": "1687177700.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a good book for design nerds like me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Eyob",
+            "real_name": "Eyob aschenaki",
+            "display_name": "Eyob aschenaki",
+            "team": "T05D4QLFERY",
+            "name": "ethioeyoba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F05DVGKTNRW",
+                "created": 1687178118,
+                "timestamp": 1687178118,
+                "name": "file_example_MP3_700KB.mp3",
+                "title": "file_example_MP3_700KB.mp3",
+                "mimetype": "audio\/mpeg",
+                "filetype": "mp3",
+                "pretty_type": "MP3",
+                "user": "U05D1SQDNSH",
+                "user_team": "T05D4QLFERY",
+                "editable": false,
+                "size": 764176,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVGKTNRW-3493147053\/file_example_mp3_700kb_audio.mp4?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05DVGKTNRW\/download\/file_example_mp3_700kb.mp3?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "duration_ms": 27252,
+                "aac": "https:\/\/files.slack.com\/files-tmb\/T05D4QLFERY-F05DVGKTNRW-3493147053\/file_example_mp3_700kb_audio.mp4?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "audio_wave_samples": [
+                    0,
+                    1,
+                    10,
+                    17,
+                    10,
+                    84,
+                    87,
+                    73,
+                    82,
+                    63,
+                    49,
+                    85,
+                    78,
+                    34,
+                    71,
+                    45,
+                    40,
+                    71,
+                    96,
+                    58,
+                    82,
+                    74,
+                    49,
+                    68,
+                    87,
+                    70,
+                    65,
+                    59,
+                    35,
+                    32,
+                    86,
+                    87,
+                    55,
+                    95,
+                    80,
+                    58,
+                    86,
+                    82,
+                    55,
+                    73,
+                    47,
+                    37,
+                    52,
+                    100,
+                    73,
+                    72,
+                    94,
+                    70,
+                    71,
+                    88,
+                    88,
+                    60,
+                    83,
+                    46,
+                    30,
+                    80,
+                    90,
+                    58,
+                    93,
+                    84,
+                    58,
+                    77,
+                    90,
+                    59,
+                    72,
+                    63,
+                    48,
+                    45,
+                    89,
+                    83,
+                    55,
+                    84,
+                    54,
+                    55,
+                    93,
+                    78,
+                    62,
+                    76,
+                    56,
+                    54,
+                    72,
+                    96,
+                    58,
+                    79,
+                    76,
+                    54,
+                    62,
+                    91,
+                    76,
+                    60,
+                    62,
+                    44,
+                    41,
+                    82,
+                    85,
+                    46,
+                    94,
+                    70,
+                    55,
+                    92
+                ],
+                "media_display_type": "audio",
+                "permalink": "https:\/\/mattermost-llm-test.slack.com\/files\/U05D1SQDNSH\/F05DVGKTNRW\/file_example_mp3_700kb.mp3",
+                "permalink_public": "https:\/\/slack-files.com\/T05D4QLFERY-F05DVGKTNRW-b9562d2166",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05D1SQDNSH",
+        "display_as_bot": false,
+        "ts": "1687178124.436359",
+        "client_msg_id": "4cf84354-08e1-4da0-b3c4-96c16e062cce"
+    },
+    {
+        "client_msg_id": "a34ce371-0624-49dd-9723-253265b9c9f7",
+        "type": "message",
+        "text": "Sample audio as well",
+        "user": "U05D1SQDNSH",
+        "ts": "1687178138.528629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sample audio as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Eyob",
+            "real_name": "Eyob aschenaki",
+            "display_name": "Eyob aschenaki",
+            "team": "T05D4QLFERY",
+            "name": "ethioeyoba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9ee873da-2ee5-4690-8699-2f0a0b50a366",
+        "type": "message",
+        "text": "Bzw I already tries this a while ago but forgot to share this is what the export looks like",
+        "user": "U05D1SQDNSH",
+        "ts": "1687188005.017139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zO9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bzw I already tries this a while ago but forgot to share this is what the export looks like"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T05D4QLFERY",
+        "user_team": "T05D4QLFERY",
+        "source_team": "T05D4QLFERY",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Eyob",
+            "real_name": "Eyob aschenaki",
+            "display_name": "Eyob aschenaki",
+            "team": "T05D4QLFERY",
+            "name": "ethioeyoba",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F05D6Q3LV5Y",
+                "created": 1687188008,
+                "timestamp": 1687188008,
+                "name": "EAsch Slack export Jun 15 2023 - Jun 16 2023.zip",
+                "title": "EAsch Slack export Jun 15 2023 - Jun 16 2023.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U05D1SQDNSH",
+                "user_team": "T05D4QLFERY",
+                "editable": false,
+                "size": 2961,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05D6Q3LV5Y\/easch_slack_export_jun_15_2023_-_jun_16_2023.zip?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05D4QLFERY-F05D6Q3LV5Y\/download\/easch_slack_export_jun_15_2023_-_jun_16_2023.zip?t=xoxe-5446836524882-5441003449703-5452605119253-7c210fb1fe620b6996d776ec81aa95fa",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/mattermost-llm-test.slack.com\/files\/U05D1SQDNSH\/F05D6Q3LV5Y\/easch_slack_export_jun_15_2023_-_jun_16_2023.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T05D4QLFERY-F05D6Q3LV5Y-d009b63aba",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05D1SQDNSH",
+        "display_as_bot": false,
+        "ts": "1687188011.498539",
+        "client_msg_id": "06023d4a-541a-416c-a71f-3603540d7732"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id": "C05D1SE01B7",
+        "name": "random",
+        "created": 1687165577,
+        "creator": "U05DHDPL4FK",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U05CQ93C3FZ",
+            "U05D1SQDNSH",
+            "U05D4M7RGQ3",
+            "U05DHDPL4FK"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": 0
+        },
+        "purpose": {
+            "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+            "creator": "U05DHDPL4FK",
+            "last_set": 1687165577
+        }
+    },
+    {
+        "id": "C05D77W3N76",
+        "name": "general",
+        "created": 1687165577,
+        "creator": "U05DHDPL4FK",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "U05CQ93C3FZ",
+            "U05D1SQDNSH",
+            "U05D4M7RGQ3",
+            "U05DHDPL4FK"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": 0
+        },
+        "purpose": {
+            "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.",
+            "creator": "U05DHDPL4FK",
+            "last_set": 1687165577
+        }
+    },
+    {
+        "id": "C05D7863DRA",
+        "name": "test",
+        "created": 1687165686,
+        "creator": "U05DHDPL4FK",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U05CQ93C3FZ",
+            "U05D1SQDNSH",
+            "U05D4M7RGQ3",
+            "U05DHDPL4FK"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": 0
+        },
+        "purpose": {
+            "value": "This channel is for everything #test. Hold meetings, share docs, and make decisions together with your team.",
+            "creator": "U05DHDPL4FK",
+            "last_set": 1687165686
+        }
+    },
+    {
+        "id": "C05ABCDE01",
+        "name": "gptgenerated",
+        "created": 1687166738,
+        "creator": "U02ABCDE02",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U02ABCDE02",
+            "U03ABCDE03",
+            "U04ABCDE04",
+            "U01ABCDE01"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": 0
+        },
+        "purpose": {
+            "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+            "creator": "U02ABCDE02",
+            "last_set": 1687166738
+        }
+    }
+]

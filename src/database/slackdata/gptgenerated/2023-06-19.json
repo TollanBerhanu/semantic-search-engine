@@ -1,0 +1,1560 @@
+[
+    {
+        "client_msg_id": "01b9501d-19cb-45be-bad7-86634b0592c0",
+        "type": "message",
+        "text": "Do you know any alternative LLM models that can match GPT3's capabilities?",
+        "user": "U01ABCDE01",
+        "ts": "1687177700.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you know any alternative LLM models that can match GPT3's capabilities?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "02b9501d-19cb-45be-bad7-86634b0592c1",
+        "type": "message",
+        "text": "I heard OpenAI has released GPT4, which is supposed to be an improvement over GPT3.",
+        "user": "U02ABCDE02",
+        "ts": "1687177701.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I heard OpenAI has released GPT4, which is supposed to be an improvement over GPT3."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "03b9501d-19cb-45be-bad7-86634b0592c2",
+        "type": "message",
+        "text": "I've been using GPT2 for similar tasks, and it has been working well for me.",
+        "user": "U03ABCDE03",
+        "ts": "1687177702.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've been using GPT2 for similar tasks, and it has been working well for me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "04b9501d-19cb-45be-bad7-86634b0592c3",
+        "type": "message",
+        "text": "I'm not familiar with LLM models, but I can look into it and provide some suggestions.",
+        "user": "U04ABCDE04",
+        "ts": "1687177703.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not familiar with LLM models, but I can look into it and provide some suggestions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05b9501d-19cb-45be-bad7-86634b0592c4",
+        "type": "message",
+        "text": "GPT3 has been the go-to choice for most applications, but exploring alternatives is always a good idea.",
+        "user": "U01ABCDE01",
+        "ts": "1687177704.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GPT3 has been the go-to choice for most applications, but exploring alternatives is always a good idea."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "06b9501d-19cb-45be-bad7-86634b0592c5",
+        "type": "message",
+        "text": "I think Microsoft's Turing model could be a potential alternative to GPT3. It's worth checking out.",
+        "user": "U02ABCDE02",
+        "ts": "1687177705.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think Microsoft's Turing model could be a potential alternative to GPT3. It's worth checking out."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07b9501d-19cb-45be-bad7-86634b0592c6",
+        "type": "message",
+        "text": "GPT3 has set the bar high, but we should keep an eye on research papers and see if any promising alternatives are being developed.",
+        "user": "U03ABCDE03",
+        "ts": "1687177706.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GPT3 has set the bar high, but we should keep an eye on research papers and see if any promising alternatives are being developed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "08b9501d-19cb-45be-bad7-86634b0592c7",
+        "type": "message",
+        "text": "I believe Google's Reformer model could be a potential alternative to GPT3. It's designed to handle long-range dependencies efficiently.",
+        "user": "U04ABCDE04",
+        "ts": "1687177707.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe Google's Reformer model could be a potential alternative to GPT3. It's designed to handle long-range dependencies efficiently."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "09b9501d-19cb-45be-bad7-86634b0592c8",
+        "type": "message",
+        "text": "Has anyone tried EleutherAI's GPT-Neo? It's an open-source alternative to GPT3 and might be worth exploring.",
+        "user": "U01ABCDE01",
+        "ts": "1687177708.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has anyone tried EleutherAI's GPT-Neo? It's an open-source alternative to GPT3 and might be worth exploring."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "10b9501d-19cb-45be-bad7-86634b0592c9",
+        "type": "message",
+        "text": "BERT is another popular model that could be considered as an alternative to GPT3. It has been widely used for various NLP tasks.",
+        "user": "U02ABCDE02",
+        "ts": "1687177709.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BERT is another popular model that could be considered as an alternative to GPT3. It has been widely used for various NLP tasks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "11b9501d-19cb-45be-bad7-86634b0592ca",
+        "type": "message",
+        "text": "I heard OpenAI is working on GPT4, which might offer significant improvements over GPT3. We should keep an eye on their advancements.",
+        "user": "U03ABCDE03",
+        "ts": "1687177710.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I heard OpenAI is working on GPT4, which might offer significant improvements over GPT3. We should keep an eye on their advancements."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "12b9501d-19cb-45be-bad7-86634b0592cb",
+        "type": "message",
+        "text": "What about XLNet? It's a transformer-based model that has shown promising results in various NLP benchmarks.",
+        "user": "U04ABCDE04",
+        "ts": "1687177711.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What about XLNet? It's a transformer-based model that has shown promising results in various NLP benchmarks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "13b9501d-19cb-45be-bad7-86634b0592cc",
+        "type": "message",
+        "text": "We could consider using GPT-2 as an alternative to GPT3. Although it's an older model, it still performs well in many applications.",
+        "user": "U01ABCDE01",
+        "ts": "1687177712.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could consider using GPT-2 as an alternative to GPT3. Although it's an older model, it still performs well in many applications."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "14b9501d-19cb-45be-bad7-86634b0592cd",
+        "type": "message",
+        "text": "Have you looked into CTRL? It's a conditional transformer language model that allows fine-grained control over the generated text.",
+        "user": "U02ABCDE02",
+        "ts": "1687177713.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you looked into CTRL? It's a conditional transformer language model that allows fine-grained control over the generated text."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "15b9501d-19cb-45be-bad7-86634b0592ce",
+        "type": "message",
+        "text": "Transformer-XL is another option worth considering. It's designed to handle longer sequences and has achieved impressive results.",
+        "user": "U03ABCDE03",
+        "ts": "1687177714.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Transformer-XL is another option worth considering. It's designed to handle longer sequences and has achieved impressive results."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "16b9501d-19cb-45be-bad7-86634b0592cf",
+        "type": "message",
+        "text": "You might want to explore T5 as an alternative to GPT3. It's a versatile model that has achieved state-of-the-art performance on various NLP tasks.",
+        "user": "U04ABCDE04",
+        "ts": "1687177715.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You might want to explore T5 as an alternative to GPT3. It's a versatile model that has achieved state-of-the-art performance on various NLP tasks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "17b9501d-19cb-45be-bad7-86634b0592d0",
+        "type": "message",
+        "text": "One potential alternative to GPT3 is UniLM. It's a unified language model that has achieved competitive performance across various NLP tasks.",
+        "user": "U01ABCDE01",
+        "ts": "1687177716.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One potential alternative to GPT3 is UniLM. It's a unified language model that has achieved competitive performance across various NLP tasks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "18b9501d-19cb-45be-bad7-86634b0592d1",
+        "type": "message",
+        "text": "If you're looking for a more lightweight alternative, you can consider DistilBERT. It's a distilled version of BERT that offers faster inference times.",
+        "user": "U02ABCDE02",
+        "ts": "1687177717.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you're looking for a more lightweight alternative, you can consider DistilBERT. It's a distilled version of BERT that offers faster inference times."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "19b9501d-19cb-45be-bad7-86634b0592d2",
+        "type": "message",
+        "text": "BERT is a widely-used model that can serve as a good alternative to GPT3. It's particularly effective for tasks involving natural language understanding.",
+        "user": "U03ABCDE03",
+        "ts": "1687177718.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BERT is a widely-used model that can serve as a good alternative to GPT3. It's particularly effective for tasks involving natural language understanding."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "20b9501d-19cb-45be-bad7-86634b0592d3",
+        "type": "message",
+        "text": "You may want to explore RoBERTa as an alternative to GPT3. It's a robustly optimized BERT model that has achieved state-of-the-art results on several benchmarks.",
+        "user": "U04ABCDE04",
+        "ts": "1687177719.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You may want to explore RoBERTa as an alternative to GPT3. It's a robustly optimized BERT model that has achieved state-of-the-art results on several benchmarks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "21b9501d-19cb-45be-bad7-86634b0592d4",
+        "type": "message",
+        "text": "I think GPT3 has a wide range of applications and generates highly coherent text, but it can be quite expensive and may not be necessary for our semantic search application.",
+        "user": "U01ABCDE01",
+        "ts": "1687177720.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think GPT3 has a wide range of applications and generates highly coherent text, but it can be quite expensive and may not be necessary for our semantic search application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "22b9501d-19cb-45be-bad7-86634b0592d5",
+        "type": "message",
+        "text": "You're right, GPT3 might be overkill for our needs. CTRL seems promising as it offers fine-grained control over the generated text, which can be valuable for semantic search.",
+        "user": "U02ABCDE02",
+        "ts": "1687177721.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're right, GPT3 might be overkill for our needs. CTRL seems promising as it offers fine-grained control over the generated text, which can be valuable for semantic search."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "23b9501d-19cb-45be-bad7-86634b0592d6",
+        "type": "message",
+        "text": "T5 is known for its versatility and state-of-the-art performance across various NLP tasks. It could be a suitable choice for semantic search in our application.",
+        "user": "U03ABCDE03",
+        "ts": "1687177722.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "T5 is known for its versatility and state-of-the-art performance across various NLP tasks. It could be a suitable choice for semantic search in our application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "24b9501d-19cb-45be-bad7-86634b0592d7",
+        "type": "message",
+        "text": "UniLM is another alternative worth considering. Its competitive performance across various NLP tasks makes it a strong candidate for semantic search in our application.",
+        "user": "U04ABCDE04",
+        "ts": "1687177723.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "UniLM is another alternative worth considering. Its competitive performance across various NLP tasks makes it a strong candidate for semantic search in our application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "25b9501d-19cb-45be-bad7-86634b0592d8",
+        "type": "message",
+        "text": "DistilBERT could be a good fit for our semantic search application, thanks to its lightweight nature and fast inference times.",
+        "user": "U01ABCDE01",
+        "ts": "1687177724.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DistilBERT could be a good fit for our semantic search application, thanks to its lightweight nature and fast inference times."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "26b9501d-19cb-45be-bad7-86634b0592d9",
+        "type": "message",
+        "text": "BERT offers strong performance in natural language understanding tasks and can be a reliable choice for semantic search in our application.",
+        "user": "U02ABCDE02",
+        "ts": "1687177725.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BERT offers strong performance in natural language understanding tasks and can be a reliable choice for semantic search in our application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27b9501d-19cb-45be-bad7-86634b0592e0",
+        "type": "message",
+        "text": "RoBERTa has achieved state-of-the-art results on various benchmarks and can provide high-quality semantic search capabilities for our application.",
+        "user": "U03ABCDE03",
+        "ts": "1687177726.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "RoBERTa has achieved state-of-the-art results on various benchmarks and can provide high-quality semantic search capabilities for our application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "28b9501d-19cb-45be-bad7-86634b0592e1",
+        "type": "message",
+        "text": "XLNet is known for its ability to capture bidirectional contexts effectively, which can be beneficial for semantic search in our application.",
+        "user": "U04ABCDE04",
+        "ts": "1687177727.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "XLNet is known for its ability to capture bidirectional contexts effectively, which can be beneficial for semantic search in our application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "29b9501d-19cb-45be-bad7-86634b0592e2",
+        "type": "message",
+        "text": "ERNIE has shown promising results in understanding natural language semantics, making it a potential choice for semantic search in our application.",
+        "user": "U01ABCDE01",
+        "ts": "1687177728.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ERNIE has shown promising results in understanding natural language semantics, making it a potential choice for semantic search in our application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "30b9501d-19cb-45be-bad7-86634b0592e3",
+        "type": "message",
+        "text": "ALBERT, with its parameter-efficient design, can provide competitive performance in semantic search while requiring less computational resources.",
+        "user": "U02ABCDE02",
+        "ts": "1687177729.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ALBERT, with its parameter-efficient design, can provide competitive performance in semantic search while requiring less computational resources."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31b9501d-19cb-45be-bad7-86634b0592e4",
+        "type": "message",
+        "text": "Electra, with its pre-training approach based on adversarial training, can provide effective semantic search capabilities for our application.",
+        "user": "U03ABCDE03",
+        "ts": "1687177730.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Electra, with its pre-training approach based on adversarial training, can provide effective semantic search capabilities for our application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "32b9501d-19cb-45be-bad7-86634b0592e5",
+        "type": "message",
+        "text": "I think BERT would be the ideal choice for our semantic search application. It has proven performance and is widely used in the industry.",
+        "user": "U01ABCDE01",
+        "ts": "1687177731.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think BERT would be the ideal choice for our semantic search application. It has proven performance and is widely used in the industry."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "33b9501d-19cb-45be-bad7-86634b0592e6",
+        "type": "message",
+        "text": "I agree with John. BERT has a strong track record and has been extensively tested in various applications.",
+        "user": "U02ABCDE02",
+        "ts": "1687177732.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with John. BERT has a strong track record and has been extensively tested in various applications."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34b9501d-19cb-45be-bad7-86634b0592e7",
+        "type": "message",
+        "text": "I understand your point, but GPT3 may not be the most suitable model for semantic search. BERT's fine-tuning capabilities make it a better fit for our specific task.",
+        "user": "U03ABCDE03",
+        "ts": "1687177733.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I understand your point, but GPT3 may not be the most suitable model for semantic search. BERT's fine-tuning capabilities make it a better fit for our specific task."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "35b9501d-19cb-45be-bad7-86634b0592e8",
+        "type": "message",
+        "text": "I see your point now. BERT's fine-tuning capabilities can help us achieve better accuracy and efficiency in our semantic search application.",
+        "user": "U04ABCDE04",
+        "ts": "1687177734.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see your point now. BERT's fine-tuning capabilities can help us achieve better accuracy and efficiency in our semantic search application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "36b9501d-19cb-45be-bad7-86634b0592e9",
+        "type": "message",
+        "text": "GPT3 is a powerful model, no doubt, but its size and computational requirements make it less practical for our semantic search application.",
+        "user": "U01ABCDE01",
+        "ts": "1687177735.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GPT3 is a powerful model, no doubt, but its size and computational requirements make it less practical for our semantic search application."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "37b9501d-19cb-45be-bad7-86634b0592ea",
+        "type": "message",
+        "text": "Absolutely. BERT's smaller size allows for faster training and deployment, which is crucial for our application's performance.",
+        "user": "U02ABCDE02",
+        "ts": "1687177736.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely. BERT's smaller size allows for faster training and deployment, which is crucial for our application's performance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Alice",
+            "real_name": "Alice Johnson",
+            "display_name": "Alice",
+            "team": "T12345678",
+            "name": "alicejohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "38b9501d-19cb-45be-bad7-86634b0592eb",
+        "type": "message",
+        "text": "You're right. BERT's fine-tuning process enables us to adapt the model specifically to our semantic search task and improve its performance.",
+        "user": "U03ABCDE03",
+        "ts": "1687177737.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're right. BERT's fine-tuning process enables us to adapt the model specifically to our semantic search task and improve its performance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "39b9501d-19cb-45be-bad7-86634b0592ec",
+        "type": "message",
+        "text": "BERT's pre-training on large-scale data also helps it capture better contextual understanding, which is crucial for semantic search.",
+        "user": "U04ABCDE04",
+        "ts": "1687177738.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BERT's pre-training on large-scale data also helps it capture better contextual understanding, which is crucial for semantic search."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Sarah",
+            "real_name": "Sarah Davis",
+            "display_name": "Sarah",
+            "team": "T12345678",
+            "name": "sarahdavis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "40b9501d-19cb-45be-bad7-86634b0592ed",
+        "type": "message",
+        "text": "GPT3's generative nature may introduce unnecessary complexity in our semantic search application. BERT's focus on understanding context is more aligned with our goals.",
+        "user": "U01ABCDE01",
+        "ts": "1687177739.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GPT3's generative nature may introduce unnecessary complexity in our semantic search application. BERT's focus on understanding context is more aligned with our goals."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "John",
+            "real_name": "John Smith",
+            "display_name": "John",
+            "team": "T12345678",
+            "name": "johnsmith",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41b9501d-19cb-45be-bad7-86634b0592ee",
+        "type": "message",
+        "text": "I agree with you all now. BERT seems to be the better choice for our semantic search application, considering its practicality and performance.",
+        "user": "U03ABCDE03",
+        "ts": "1687177740.175079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZOop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with you all now. BERT seems to be the better choice for our semantic search application, considering its practicality and performance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T12345678",
+        "user_team": "T12345678",
+        "source_team": "T12345678",
+        "user_profile": {
+            "avatar_hash": "1c25e8869d29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-06-19\/5441133707894_1c25e8869d29a908bc34_72.png",
+            "first_name": "Michael",
+            "real_name": "Michael Johnson",
+            "display_name": "Michael",
+            "team": "T12345678",
+            "name": "michaeljohnson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]
